@@ -22,4 +22,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: mochawesome
-          path: /home/runner/work/quick-example-of-testing-in-nodejs/quick-example-of-testing-in-nodejs/reports/awesome-reports/mochawesome.html
+          path: /home/runner/work/nodeAvi/nodeAvi/reports/awesome-reports/mochawesome.html
